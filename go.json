@@ -1,14 +1,16 @@
 {
   "routes": {
     "?": "http://kbl.is/",
-    "facebook": "https://facebook.com/kristjanbl",
-    "fb": "https://facebook.com/kristjanbl",
+    "cv": "https://cv.kbl.is/",
+    "facebook": "https://messenger.com/t/kristjanbl",
+    "fb": "https://messenger.com/t/kristjanbl",
     "gh": "https://github.com/minigod",
     "github": "https://github.com/minigod",
     "ig": "https://instagram.com/kristjanbl",
     "instagram": "https://instagram.com/kristjanbl",
     "key": "https://keybase.io/kbl",
     "keybase": "https://keybase.io/kbl",
+    "resume": "https://cv.kbl.is/",
     "steam": "https://steamcommunity.com/id/minigod",
     "twitter": "https://twitter.com/kristjanbl"
   }
